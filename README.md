@@ -4,4 +4,4 @@
 A chave de acesso é inválida, para testar precisa acessar https://developer.spotify.com e resgatar uma API Key
 
 <h2> Screenshot: </h2>
-<img src = "NotSpotify/print.jpg">
+<img src = "https://github.com/Bomfanti/NotSpotify/blob/main/print.jpg">
