@@ -1,2 +1,2 @@
 # NotSpotify
- Consumindo API do spotify com C#
+ Consumindo API do spotify com C# e WPF
